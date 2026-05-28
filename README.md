@@ -34,6 +34,21 @@ Cybersecurity Graduate • Security Projects & Labs
   <li>Network Security & Vulnerability Assessment Labs</li>
 </ul>
 
+---
+
+## Certifications
+
+<p align="left">
+
+  <img src="https://img.shields.io/badge/Microsoft%20Azure%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-EA1C24?style=for-the-badge&logo=security&logoColor=white" />
+
+</p>
+
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- CompTIA Security+ (SY0-701)
+
 <h2>📫 How to Reach Me</h2>
 
 <p align="left">
