@@ -19,10 +19,18 @@ Cybersecurity Graduate • Security Projects & Labs
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 <ul>
+  <li>
+    <a href="https://github.com/s3hidd3n/azure-sentinel-honeypot-lab">
+      Azure Honeypot & SIEM Attack Monitoring Lab
+    </a>
+  </li>
+
   <li>Azure Site-to-Site VPN Implementation</li>
+
   <li>FortiGate Hub-and-Spoke VPN Architecture</li>
+
   <li>Password Risk Assessment Tool</li>
-  <li>SIEM Monitoring & Log Analysis Labs</li>
+
   <li>Network Security & Vulnerability Assessment Labs</li>
 </ul>
 
@@ -41,3 +49,5 @@ Cybersecurity Graduate • Security Projects & Labs
 <p>
 📧 saheed.olamilekan.g@gmail.com
 </p>
+
+
