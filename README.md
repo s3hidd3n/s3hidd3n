@@ -25,6 +25,13 @@ Cybersecurity Graduate • Security Projects & Labs
     </a>
   </li>
 
+  <li>
+    <a href="https://github.com/s3hidd3n/active-directory-and-attack-simulation">
+      Active Directory & SIEM Security Monitoring Lab (Splunk + Atomic Red Team)
+    </a>
+  </li>
+</ul>
+
   <li>Azure Site-to-Site VPN Implementation</li>
 
   <li>FortiGate Hub-and-Spoke VPN Architecture</li>
