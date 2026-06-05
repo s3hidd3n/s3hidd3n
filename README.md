@@ -23,9 +23,7 @@ Cybersecurity | SOC Analyst | Cloud Security | SIEM | Threat Detection
 
 ## 👨‍💻 About Me
 
-I am a cybersecurity-focused graduate building hands-on experience in cloud security, SIEM monitoring, and threat detection engineering.
-
-My projects simulate real-world enterprise environments where I design, deploy, and analyse attack scenarios using industry-standard tools such as Microsoft Azure, Splunk, Active Directory, and adversary emulation frameworks.
+Cybersecurity MSc graduate passionate about IT infrastructure, cloud security, and enterprise networking. I enjoy building hands-on projects involving secure systems, Azure environments, and security automation. I’m continuously developing my skills in defensive security and cloud technologies
 
 ---
 
