@@ -116,26 +116,7 @@ A Python-based security tool that evaluates password strength using a layered an
 
 ---
 
-## 🧩 Cybersecurity Lab Focus
 
-My projects simulate real enterprise environments involving:
-
-- Attack surface exposure
-- Identity and access management risks
-- SIEM log ingestion and correlation
-- Real-time threat detection
-- Adversary behaviour simulation
-
----
-
-## 📊 What This Portfolio Demonstrates
-
-- Ability to build real-world SOC environments
-- Practical SIEM and cloud security experience
-- Understanding of attacker behaviour and detection logic
-- Hands-on security engineering and automation skills
-
----
 
 ## 📫 Contact
 
