@@ -83,7 +83,7 @@ Includes:
 </p>
 
 📌 Repository:
-- https://github.com/s3hidd3n/YOUR-AD-REPO
+- https://github.com/s3hidd3n/active-directory-and-attack-simulation
 
 ---
 
