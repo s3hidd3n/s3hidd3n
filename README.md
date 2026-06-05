@@ -29,18 +29,6 @@ My projects simulate real-world enterprise environments where I design, deploy, 
 
 ---
 
-## 🧠 Core Skills
-
-- Cloud Security (Microsoft Azure)
-- SIEM Operations (Splunk, Sentinel)
-- Active Directory Security
-- Threat Detection & Response
-- Log Analysis (KQL, Splunk SPL)
-- Endpoint Monitoring (Sysmon)
-- Attack Simulation (Kali Linux, Atomic Red Team)
-- Python Security Tooling
-
----
 
 ## 🚨 Featured Cybersecurity Projects
 
