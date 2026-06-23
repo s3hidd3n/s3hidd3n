@@ -54,6 +54,37 @@ https://github.com/s3hidd3n/active-directory-and-attack-simulation
 
 ---
 
+
+### 🌐 Web Application Security Testing Lab (OWASP Vulnerability Assessment)
+
+Hands-on security assessment of a deliberately vulnerable e-commerce web application to identify and exploit common web security flaws based on OWASP Top 10 risks.
+
+Key components:
+- SQL Injection authentication bypass testing  
+- Reflected and Stored Cross-Site Scripting (XSS) exploitation  
+- Broken Access Control (IDOR) analysis  
+- Business logic manipulation (shopping basket abuse)  
+- Password reset and session handling vulnerabilities  
+- Client-side validation bypass techniques  
+- Advanced SQL injection for database enumeration  
+- Vulnerability analysis and reporting  
+
+<p align="center">
+
+![Web Security](https://img.shields.io/badge/Web-Security-red?logo=googlechrome)
+![OWASP](https://img.shields.io/badge/OWASP-Top_10-orange)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-Testing-ff6633?logo=burpsuite)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Pentesting-557C94?logo=kalilinux)
+![XSS](https://img.shields.io/badge/XSS-Tested-green)
+![SQL Injection](https://img.shields.io/badge/SQL-Injection-blue)
+
+</p>
+
+📌 Repository  
+https://github.com/s3hidd3n/Web-Application-Security-Assessment-Lab
+
+
+---
 ### 🔐 Password Security Risk Evaluation System
 
 Python-based security tool that evaluates password strength using breach intelligence, pattern analysis, and entropy scoring.
