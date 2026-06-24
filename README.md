@@ -1,5 +1,5 @@
 # Hi, I'm Ganiyu Saheed  
-## 🛡️ Cybersecurity Portfolio
+## Portfolio
 
 ---
 
